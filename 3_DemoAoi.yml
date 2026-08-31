@@ -1,6 +1,3 @@
-server:
-  port:8084
-
 spring:
   boot:
     admin:
@@ -12,3 +9,5 @@ management:
     web:
       exposure:
         inclide: "*"
+
+message:"This is a test message from config server"
