@@ -10,4 +10,4 @@ management:
       exposure:
         inclide: "*"
 
-message:"This is a test message from config server"
+message: "This is a test message from config server"
