@@ -9,5 +9,3 @@ management:
     web:
       exposure:
         inclide: "*"
-
-message: "This is a test message from config server"
